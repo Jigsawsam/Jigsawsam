@@ -1,16 +1,36 @@
+
+# Bitner Torres
+
 ## Hi there 👋
 
-<!--
-**Jigsawsam/Jigsawsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bitner, a Software Development student at Brigham Young University–Idaho. I enjoy building full-stack applications, learning new technologies, and improving my problem-solving and design skills. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m currently working on my **Bachelor of Software Development** (expected June 2026)
+- 💻 I enjoy learning how software can solve real-world problems and creating clean, reliable applications
+- 🌱 I’m currently learning: **C++, Kotlin, Docker, full-stack development practices, and more software principles**
+- 🔎 I stay open to exploring different areas of software development and expanding my technical skills
+
+## 🛠️ Technologies and Tools
+
+**Languages:**  
+Java • Python • JavaScript • C# • HTML • CSS • SQL Fundamentals
+
+**Tools & Platforms:**  
+GitHub • Visual Studio Code • MySQLWorkbench • Docker
+
+**Core Skills:**  
+Object-Oriented Programming • Agile Teamwork • Problem-Solving • Collaboration • Adaptability
+
+## 📚 Featured Projects
+
+- **[AdventOfCode2024](https://github.com/Jigsawsam/AdventOfCode2024)**  
+  _This fun project solved some of the puzzles from the Advent of Code of 2024._
+
+## 🔗 Let's Connect!
+
+- [Your LinkedIn Link Here](LinkedIn)
+- BGT117@gmail.com
+
+Feel free to explore my repositories — and thanks for stopping by! 🚀
