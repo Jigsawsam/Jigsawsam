@@ -30,7 +30,7 @@ Object-Oriented Programming • Agile Teamwork • Problem-Solving • Collabora
 
 ## 🔗 Let's Connect!
 
-- [LinkedIn]([LinkedIn](https://www.linkedin.com/in/bitner-torres-aa7b102b8/))
+- [LinkedIn](https://www.linkedin.com/in/bitner-torres-aa7b102b8/)
 - BGT117@gmail.com
 
 Feel free to explore my repositories — and thanks for stopping by! 🚀
